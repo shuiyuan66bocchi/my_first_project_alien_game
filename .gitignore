@@ -1,0 +1,32 @@
+# 虚拟环境
+myvenv/
+venv/
+env/
+.venv/
+.env/
+
+# Python 缓存
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 编辑器文件
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 日志文件
+*.log
+
+# PyGame 临时文件
+*.tmp
+
+# 打包文件
+*.exe
+dist/
+build/
